@@ -4,7 +4,7 @@ import * as webViewModule from "tns-core-modules/ui/web-view";
 @Component({
     selector: "my-app",
     template: `<Page>
-        <WebView src="https://www.phodal.com"></WebView>
+        <WebView></WebView>
     </Page>`
 })
 
